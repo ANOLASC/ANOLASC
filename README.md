@@ -1,1 +1,1 @@
-- C C++ Rust Linux eBPF
+- C C++ Rust Haskell Linux eBPF
