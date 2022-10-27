@@ -1,1 +1,1 @@
-- C C++ Rust Lisp Haskell Dart Linux eBPF
+- C C++ Rust Lisp Haskell Dart eBPF
