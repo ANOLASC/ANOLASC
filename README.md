@@ -1,1 +1,3 @@
-- C C++ Rust Racket Haskell Dart
+- C C++ Rust Racket Haskell
+- HPC
+- Distributed Computing
